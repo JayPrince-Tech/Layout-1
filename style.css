@@ -3,16 +3,14 @@
 body {
  color: black;
 }
-
-.hero{
-  background-image: url("greid64-hair-2806123.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-height:350px;
-  padding: 15px;
-  width:350px;
-  text-align: center;
-  color: #C5C6C7;
-background-color: black; 
+h1{
+ color: #C5C6C7;
+  background-color: black;
+ text-align:center; 
 }
-  
+ 
+h2{
+   color: #C5C6C7;
+ background-color: black;
+ text-align: center;
+}
