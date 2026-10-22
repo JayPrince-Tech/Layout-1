@@ -24,6 +24,8 @@ h2{
 }
 
  nav{
-  text-align: top-right;
-  color:gold;
+  justify-content: flex-start;
+  color: gold;
+  display: flex;
+gap: 25px;
  }
