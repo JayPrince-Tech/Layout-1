@@ -27,4 +27,5 @@ width: fit-content;
   color: gold;
   display: flex;
 gap: 25px;
+  text-align: center;
  }
