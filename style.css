@@ -24,6 +24,8 @@ width: fit-content;
   box-sizing: border-box;
  justify-content: center;
  align-items: center;
+ position: relative;
+ position: absolute;
 }
 
  nav{
