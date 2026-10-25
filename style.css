@@ -17,8 +17,8 @@ width: fit-content;
 }
  
 .container img {
-  width: 2200px;
-  height: 800px;
+  width: 1600px;
+  height: 1000px;
   object-fit: cover;
   display: block;
   box-sizing: border-box;
