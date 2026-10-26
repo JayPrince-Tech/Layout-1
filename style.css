@@ -33,8 +33,8 @@ gap: 25px;
  }
 
 .small-image {
-    width: 800px;
-    height: 800px;
+    width: 600px;
+    height: 600px;
  align-items: center;
  justify-content: center;
  object-fit: cover;
