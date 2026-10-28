@@ -60,3 +60,8 @@ gap: 25px;
     margin: 12px auto;
     overflow: hidden;
 }
+
+.business-hours {
+ color: white;
+ text-align: center;
+}
